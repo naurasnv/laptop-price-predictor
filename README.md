@@ -1,16 +1,29 @@
-# laptop_predictor
+# Laptop Price Predictor
 
-A new Flutter project.
+A Flutter-based mobile application prototype for estimating laptop prices based on hardware specifications. This app is developed as part of a Machine Learning project implementing the concept of Artificial Neural Network (ANN).
 
-## Getting Started
+## 📌 Features
+- Select laptop hardware specifications:
+  - Processor (Intel / Ryzen)
+  - RAM capacity
+  - Storage type (HDD, SSD, NVME)
+  - Screen size
+- Predict estimated laptop price
+- Minimalist clean UI
+- Works on Web and Android (future extension)
 
-This project is a starting point for a Flutter application.
+## 🛠 Technology Stack
+- Flutter
+- Dart
+- GitHub
+- (Future) TensorFlow Lite Model
 
-A few resources to get you started if this is your first Flutter project:
+## 📁 Screenshots
+Will be added later.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Purpose
+Prototype aplikasi ini dibuat untuk mendemonstrasikan konsep prediksi harga laptop berdasarkan spesifikasi teknis menggunakan pendekatan Artificial Neural Network (ANN).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+© 2025 - Naura Syifa Novianti
